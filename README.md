@@ -1,5 +1,5 @@
 <h4 align="center">
- ![Alt Text](https://github.com/marcosdenoni/marcosdenoni/blob/main/assets/header.gif?raw=true)
+ ![](https://github.com/marcosdenoni/marcosdenoni/blob/main/assets/header.gif?raw=true)
 </h4>
 
 <h3 align="center">  <br>
