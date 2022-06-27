@@ -1,5 +1,7 @@
 <h4 align="center">
- ![](https://github.com/marcosdenoni/marcosdenoni/blob/main/assets/header.gif?raw=true)
+
+ ![marcosdenoni](https://raw.githubusercontent.com/marcosdenoni/marcosdenoni/main/assets/header.gif)
+
 </h4>
 
 <h3 align="center">  <br>
@@ -38,11 +40,13 @@ sou fascinado por computação desde criança e dês de então venho estudando e
 
 - Costumo participar ativamente de foruns de desenvolvimento
 - Atualmente venho aumentando o meu conhecimento em novas tecnologias para sempre me mantar atualizado
-- Adoro realizar coisas novas assim como aplicar oque normalmente eu estou estudando no momento
+- Adoro realizar coisas novas assim como aplicar o que normalmente eu estou estudando no momento
 
 
 ## Meus dados no Github
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=marcosdenoni&show_icons=true&theme=tokyonight)
 [![marcosdenoni](https://github-readme-stats.vercel.app/api/top-langs/?username=marcosdenoni&hide=html&layout=compact=true&theme=tokyonight)](https://github.com/marcosdenoni/)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=marcosdenoni&show_icons=true&theme=tokyonight)
+
 
