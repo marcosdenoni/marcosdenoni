@@ -1,16 +1,48 @@
-### Hi there 👋
+<h4 align="center">
+ ![Alt Text](/assets/header.gif)
+</h4>
 
-<!--
-**marcosdenoni/marcosdenoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">  <br>
 
-Here are some ideas to get you started:
+Hellow Word Im Marcos De Noni!
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</h3>
+
+```
+Estudante de Ciência da Computação pela UNIP - Universidade Paulista, 
+sou fascinado por computação desde criança e dês de então venho estudando e desenvolvendo várias maluquices!
+```
+## Tecnologias que trabalho atualmente 💻
+
+  - C#
+  - EntityFramework
+  - MVC
+  - JavaScript
+  - Microsoft SQL Server
+  - Oracle
+  - MySql
+
+## Tecnologias que estou estudando atualmente 💻
+
+  - Java
+  - SpringBoot
+  - Node.js
+  - React
+  - Docker
+  - Kubernetes
+  - MicroServices
+  - MongoDB
+
+## Alguns fatos sobre mim
+
+- Costumo participar ativamente de foruns de desenvolvimento
+- Atualmente venho aumentando o meu conhecimento em novas tecnologias para sempre me mantar atualizado
+- Adoro realizar coisas novas assim como aplicar oque normalmente eu estou estudando no momento
+
+
+## Meus dados no Github
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=marcosdenoni&show_icons=true&theme=tokyonight)
+[![marcosdenoni](https://github-readme-stats.vercel.app/api/top-langs/?username=marcosdenoni&hide=html&layout=compact=true&theme=tokyonight)](https://github.com/marcosdenoni/)
+
