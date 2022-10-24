@@ -27,7 +27,6 @@ sou fascinado por computação desde criança e dês de então venho estudando e
 
 ## Tecnologias que estou estudando atualmente 💻
 
-  - Java
   - SpringBoot
   - Node.js
   - React
