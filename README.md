@@ -18,22 +18,14 @@ sou fascinado por computação desde criança e dês de então venho estudando e
 ## Tecnologias que trabalho atualmente 💻
 
   - C#
+  - Angular
+  - React
   - EntityFramework
   - MVC
   - JavaScript
   - Microsoft SQL Server
   - Oracle
   - MySql
-
-## Tecnologias que estou estudando atualmente 💻
-
-  - SpringBoot
-  - Node.js
-  - React
-  - Docker
-  - Kubernetes
-  - MicroServices
-  - MongoDB
 
 ## Alguns fatos sobre mim
 
